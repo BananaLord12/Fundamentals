@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\bin\Debug\net6.0\1. Student Information.exe
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\bin\Debug\net6.0\1. Student Information.deps.json
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\bin\Debug\net6.0\1. Student Information.runtimeconfig.json
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\bin\Debug\net6.0\1. Student Information.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\bin\Debug\net6.0\1. Student Information.pdb
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\1. Student Information.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\1. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\1. Student Information.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\1. Student Information.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\1. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\1. Student Information.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\refint\1. Student Information.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\1. Student Information.pdb
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\1. Student Information.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\1. Student Information\obj\Debug\net6.0\ref\1. Student Information.dll

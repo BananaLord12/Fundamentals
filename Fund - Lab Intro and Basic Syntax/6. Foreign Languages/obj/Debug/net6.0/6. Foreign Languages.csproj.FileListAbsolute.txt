@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net6.0\6. Foreign Languages.exe
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net6.0\6. Foreign Languages.deps.json
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net6.0\6. Foreign Languages.runtimeconfig.json
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net6.0\6. Foreign Languages.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net6.0\6. Foreign Languages.pdb
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\6. Foreign Languages.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\6. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\6. Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\6. Foreign Languages.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\6. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\6. Foreign Languages.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\refint\6. Foreign Languages.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\6. Foreign Languages.pdb
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\6. Foreign Languages.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net6.0\ref\6. Foreign Languages.dll

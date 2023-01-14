@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\bin\Debug\net6.0\9. Sum of Odd Numbers.exe
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\bin\Debug\net6.0\9. Sum of Odd Numbers.deps.json
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\bin\Debug\net6.0\9. Sum of Odd Numbers.runtimeconfig.json
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\bin\Debug\net6.0\9. Sum of Odd Numbers.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\bin\Debug\net6.0\9. Sum of Odd Numbers.pdb
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\9. Sum of Odd Numbers.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\9. Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\9. Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\9. Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\9. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\9. Sum of Odd Numbers.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\refint\9. Sum of Odd Numbers.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\9. Sum of Odd Numbers.pdb
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\9. Sum of Odd Numbers.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\9. Sum of Odd Numbers\obj\Debug\net6.0\ref\9. Sum of Odd Numbers.dll

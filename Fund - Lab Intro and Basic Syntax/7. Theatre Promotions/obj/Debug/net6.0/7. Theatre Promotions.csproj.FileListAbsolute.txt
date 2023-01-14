@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net6.0\7. Theatre Promotions.exe
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net6.0\7. Theatre Promotions.deps.json
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net6.0\7. Theatre Promotions.runtimeconfig.json
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net6.0\7. Theatre Promotions.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net6.0\7. Theatre Promotions.pdb
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\7. Theatre Promotions.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\7. Theatre Promotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\7. Theatre Promotions.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\7. Theatre Promotions.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\7. Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\7. Theatre Promotions.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\refint\7. Theatre Promotions.dll
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\7. Theatre Promotions.pdb
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\7. Theatre Promotions.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Fund - Lab Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net6.0\ref\7. Theatre Promotions.dll
