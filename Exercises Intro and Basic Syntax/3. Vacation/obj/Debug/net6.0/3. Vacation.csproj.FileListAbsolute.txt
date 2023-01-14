@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\bin\Debug\net6.0\3. Vacation.exe
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\bin\Debug\net6.0\3. Vacation.deps.json
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\bin\Debug\net6.0\3. Vacation.runtimeconfig.json
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\bin\Debug\net6.0\3. Vacation.dll
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\bin\Debug\net6.0\3. Vacation.pdb
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\3. Vacation.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\3. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\3. Vacation.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\3. Vacation.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\3. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\3. Vacation.dll
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\refint\3. Vacation.dll
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\3. Vacation.pdb
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\3. Vacation.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\3. Vacation\obj\Debug\net6.0\ref\3. Vacation.dll

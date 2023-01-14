@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\bin\Debug\net6.0\4. Print and Sum.exe
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\bin\Debug\net6.0\4. Print and Sum.deps.json
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\bin\Debug\net6.0\4. Print and Sum.runtimeconfig.json
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\bin\Debug\net6.0\4. Print and Sum.dll
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\bin\Debug\net6.0\4. Print and Sum.pdb
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\4. Print and Sum.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\4. Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\4. Print and Sum.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\4. Print and Sum.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\4. Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\4. Print and Sum.dll
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\refint\4. Print and Sum.dll
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\4. Print and Sum.pdb
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\4. Print and Sum.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Exercises Intro and Basic Syntax\4. Print and Sum\obj\Debug\net6.0\ref\4. Print and Sum.dll
