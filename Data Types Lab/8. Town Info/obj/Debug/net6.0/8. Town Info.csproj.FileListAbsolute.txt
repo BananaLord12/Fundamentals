@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\8. Town Info.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\8. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\8. Town Info.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\8. Town Info.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\8. Town Info.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\bin\Debug\net6.0\8. Town Info.exe
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\bin\Debug\net6.0\8. Town Info.deps.json
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\bin\Debug\net6.0\8. Town Info.runtimeconfig.json
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\bin\Debug\net6.0\8. Town Info.dll
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\bin\Debug\net6.0\8. Town Info.pdb
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\8. Town Info.dll
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\refint\8. Town Info.dll
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\8. Town Info.pdb
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\8. Town Info.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Data Types Lab\8. Town Info\obj\Debug\net6.0\ref\8. Town Info.dll

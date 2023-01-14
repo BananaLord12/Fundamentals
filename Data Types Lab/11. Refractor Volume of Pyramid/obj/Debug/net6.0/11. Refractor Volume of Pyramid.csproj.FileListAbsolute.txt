@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\bin\Debug\net6.0\11. Refractor Volume of Pyramid.exe
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\bin\Debug\net6.0\11. Refractor Volume of Pyramid.deps.json
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\bin\Debug\net6.0\11. Refractor Volume of Pyramid.runtimeconfig.json
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\bin\Debug\net6.0\11. Refractor Volume of Pyramid.dll
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\bin\Debug\net6.0\11. Refractor Volume of Pyramid.pdb
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\11. Refractor Volume of Pyramid.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\11. Refractor Volume of Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\11. Refractor Volume of Pyramid.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\11. Refractor Volume of Pyramid.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\11. Refractor Volume of Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\11. Refractor Volume of Pyramid.dll
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\refint\11. Refractor Volume of Pyramid.dll
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\11. Refractor Volume of Pyramid.pdb
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\11. Refractor Volume of Pyramid.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Data Types Lab\11. Refractor Volume of Pyramid\obj\Debug\net6.0\ref\11. Refractor Volume of Pyramid.dll
