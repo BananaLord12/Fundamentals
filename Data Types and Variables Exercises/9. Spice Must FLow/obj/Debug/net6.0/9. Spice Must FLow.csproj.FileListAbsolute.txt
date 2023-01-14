@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\bin\Debug\net6.0\9. Spice Must FLow.exe
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\bin\Debug\net6.0\9. Spice Must FLow.deps.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\bin\Debug\net6.0\9. Spice Must FLow.runtimeconfig.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\bin\Debug\net6.0\9. Spice Must FLow.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\bin\Debug\net6.0\9. Spice Must FLow.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\9. Spice Must FLow.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\9. Spice Must FLow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\9. Spice Must FLow.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\9. Spice Must FLow.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\9. Spice Must FLow.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\9. Spice Must FLow.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\refint\9. Spice Must FLow.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\9. Spice Must FLow.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\9. Spice Must FLow.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\9. Spice Must FLow\obj\Debug\net6.0\ref\9. Spice Must FLow.dll

@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\bin\Debug\net6.0\5. Pring Part Of ASCII Table.exe
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\bin\Debug\net6.0\5. Pring Part Of ASCII Table.deps.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\bin\Debug\net6.0\5. Pring Part Of ASCII Table.runtimeconfig.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\bin\Debug\net6.0\5. Pring Part Of ASCII Table.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\bin\Debug\net6.0\5. Pring Part Of ASCII Table.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\5. Pring Part Of ASCII Table.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\5. Pring Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\5. Pring Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\5. Pring Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\5. Pring Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\5. Pring Part Of ASCII Table.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\refint\5. Pring Part Of ASCII Table.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\5. Pring Part Of ASCII Table.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\5. Pring Part Of ASCII Table.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\5. Pring Part Of ASCII Table\obj\Debug\net6.0\ref\5. Pring Part Of ASCII Table.dll

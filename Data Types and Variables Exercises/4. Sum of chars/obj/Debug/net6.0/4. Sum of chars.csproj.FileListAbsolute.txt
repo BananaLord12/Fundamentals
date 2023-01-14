@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\bin\Debug\net6.0\4. Sum of chars.exe
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\bin\Debug\net6.0\4. Sum of chars.deps.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\bin\Debug\net6.0\4. Sum of chars.runtimeconfig.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\bin\Debug\net6.0\4. Sum of chars.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\bin\Debug\net6.0\4. Sum of chars.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\4. Sum of chars.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\4. Sum of chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\4. Sum of chars.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\4. Sum of chars.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\4. Sum of chars.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\4. Sum of chars.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\refint\4. Sum of chars.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\4. Sum of chars.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\4. Sum of chars.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\4. Sum of chars\obj\Debug\net6.0\ref\4. Sum of chars.dll

@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\bin\Debug\net6.0\7. Water Overflow.exe
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\bin\Debug\net6.0\7. Water Overflow.deps.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\bin\Debug\net6.0\7. Water Overflow.runtimeconfig.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\bin\Debug\net6.0\7. Water Overflow.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\bin\Debug\net6.0\7. Water Overflow.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\7. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\7. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\7. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\7. Water Overflow.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\7. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\7. Water Overflow.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\refint\7. Water Overflow.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\7. Water Overflow.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\7. Water Overflow.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\7. Water Overflow\obj\Debug\net6.0\ref\7. Water Overflow.dll

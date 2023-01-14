@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.exe
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.deps.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.runtimeconfig.json
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\refint\2. Sum Digits.dll
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.pdb
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Data Types and Variables Exercises\2. Sum Digits\obj\Debug\net6.0\ref\2. Sum Digits.dll
