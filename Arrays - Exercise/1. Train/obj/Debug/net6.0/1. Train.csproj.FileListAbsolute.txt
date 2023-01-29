@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.exe
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.deps.json
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.runtimeconfig.json
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.pdb
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\refint\1. Train.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.pdb
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\1. Train\obj\Debug\net6.0\ref\1. Train.dll

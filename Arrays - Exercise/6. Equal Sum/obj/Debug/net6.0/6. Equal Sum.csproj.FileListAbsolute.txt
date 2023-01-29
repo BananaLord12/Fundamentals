@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\bin\Debug\net6.0\6. Equal Sum.exe
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\bin\Debug\net6.0\6. Equal Sum.deps.json
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\bin\Debug\net6.0\6. Equal Sum.runtimeconfig.json
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\bin\Debug\net6.0\6. Equal Sum.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\bin\Debug\net6.0\6. Equal Sum.pdb
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\6. Equal Sum.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\6. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\6. Equal Sum.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\6. Equal Sum.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\6. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\6. Equal Sum.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\refint\6. Equal Sum.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\6. Equal Sum.pdb
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\6. Equal Sum.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\6. Equal Sum\obj\Debug\net6.0\ref\6. Equal Sum.dll

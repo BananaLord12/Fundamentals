@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\3. Rounding Numbers.exe
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\3. Rounding Numbers.deps.json
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\3. Rounding Numbers.runtimeconfig.json
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\3. Rounding Numbers.dll
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\3. Rounding Numbers.pdb
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\3. Rounding Numbers.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\3. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\3. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\3. Rounding Numbers.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\3. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\3. Rounding Numbers.dll
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\refint\3. Rounding Numbers.dll
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\3. Rounding Numbers.pdb
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\3. Rounding Numbers.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\ref\3. Rounding Numbers.dll

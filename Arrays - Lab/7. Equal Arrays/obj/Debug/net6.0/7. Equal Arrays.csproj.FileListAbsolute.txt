@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.exe
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.deps.json
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.runtimeconfig.json
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.dll
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.pdb
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.dll
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\refint\7. Equal Arrays.dll
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.pdb
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\ref\7. Equal Arrays.dll

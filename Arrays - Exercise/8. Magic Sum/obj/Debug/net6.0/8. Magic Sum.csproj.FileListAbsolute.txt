@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\bin\Debug\net6.0\8. Magic Sum.exe
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\bin\Debug\net6.0\8. Magic Sum.deps.json
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\bin\Debug\net6.0\8. Magic Sum.runtimeconfig.json
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\bin\Debug\net6.0\8. Magic Sum.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\bin\Debug\net6.0\8. Magic Sum.pdb
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\8. Magic Sum.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\8. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\8. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\8. Magic Sum.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\8. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\8. Magic Sum.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\refint\8. Magic Sum.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\8. Magic Sum.pdb
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\8. Magic Sum.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\8. Magic Sum\obj\Debug\net6.0\ref\8. Magic Sum.dll

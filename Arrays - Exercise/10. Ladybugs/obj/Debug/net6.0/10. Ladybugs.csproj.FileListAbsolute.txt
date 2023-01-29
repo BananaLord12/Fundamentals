@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\bin\Debug\net6.0\10. Ladybugs.exe
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\bin\Debug\net6.0\10. Ladybugs.deps.json
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\bin\Debug\net6.0\10. Ladybugs.runtimeconfig.json
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\bin\Debug\net6.0\10. Ladybugs.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\bin\Debug\net6.0\10. Ladybugs.pdb
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\10. Ladybugs.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\10. Ladybugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\10. Ladybugs.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\10. Ladybugs.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\10. Ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\10. Ladybugs.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\refint\10. Ladybugs.dll
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\10. Ladybugs.pdb
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\10. Ladybugs.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Arrays - Exercise\10. Ladybugs\obj\Debug\net6.0\ref\10. Ladybugs.dll
