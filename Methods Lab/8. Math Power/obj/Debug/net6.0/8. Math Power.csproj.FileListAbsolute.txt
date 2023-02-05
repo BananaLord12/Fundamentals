@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\bin\Debug\net6.0\8. Math Power.exe
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\bin\Debug\net6.0\8. Math Power.deps.json
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\bin\Debug\net6.0\8. Math Power.runtimeconfig.json
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\bin\Debug\net6.0\8. Math Power.dll
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\bin\Debug\net6.0\8. Math Power.pdb
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\8. Math Power.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\8. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\8. Math Power.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\8. Math Power.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\8. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\8. Math Power.dll
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\refint\8. Math Power.dll
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\8. Math Power.pdb
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\8. Math Power.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Methods Lab\8. Math Power\obj\Debug\net6.0\ref\8. Math Power.dll

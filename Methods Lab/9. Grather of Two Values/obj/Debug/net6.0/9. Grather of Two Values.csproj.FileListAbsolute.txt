@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\bin\Debug\net6.0\9. Grather of Two Values.exe
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\bin\Debug\net6.0\9. Grather of Two Values.deps.json
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\bin\Debug\net6.0\9. Grather of Two Values.runtimeconfig.json
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\bin\Debug\net6.0\9. Grather of Two Values.dll
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\bin\Debug\net6.0\9. Grather of Two Values.pdb
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\9. Grather of Two Values.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\9. Grather of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\9. Grather of Two Values.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\9. Grather of Two Values.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\9. Grather of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\9. Grather of Two Values.dll
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\refint\9. Grather of Two Values.dll
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\9. Grather of Two Values.pdb
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\9. Grather of Two Values.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Methods Lab\9. Grather of Two Values\obj\Debug\net6.0\ref\9. Grather of Two Values.dll

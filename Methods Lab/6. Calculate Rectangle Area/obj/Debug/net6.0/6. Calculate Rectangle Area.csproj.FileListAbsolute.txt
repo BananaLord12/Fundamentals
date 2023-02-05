@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\6. Calculate Rectangle Area.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\6. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\6. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\6. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\6. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\bin\Debug\net6.0\6. Calculate Rectangle Area.exe
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\bin\Debug\net6.0\6. Calculate Rectangle Area.deps.json
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\bin\Debug\net6.0\6. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\bin\Debug\net6.0\6. Calculate Rectangle Area.dll
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\bin\Debug\net6.0\6. Calculate Rectangle Area.pdb
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\6. Calculate Rectangle Area.dll
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\refint\6. Calculate Rectangle Area.dll
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\6. Calculate Rectangle Area.pdb
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\6. Calculate Rectangle Area.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Methods Lab\6. Calculate Rectangle Area\obj\Debug\net6.0\ref\6. Calculate Rectangle Area.dll

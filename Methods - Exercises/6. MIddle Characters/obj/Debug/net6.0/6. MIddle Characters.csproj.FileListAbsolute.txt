@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\bin\Debug\net6.0\6. MIddle Characters.exe
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\bin\Debug\net6.0\6. MIddle Characters.deps.json
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\bin\Debug\net6.0\6. MIddle Characters.runtimeconfig.json
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\bin\Debug\net6.0\6. MIddle Characters.dll
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\bin\Debug\net6.0\6. MIddle Characters.pdb
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\6. MIddle Characters.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\6. MIddle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\6. MIddle Characters.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\6. MIddle Characters.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\6. MIddle Characters.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\6. MIddle Characters.dll
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\refint\6. MIddle Characters.dll
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\6. MIddle Characters.pdb
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\6. MIddle Characters.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Methods - Exercises\6. MIddle Characters\obj\Debug\net6.0\ref\6. MIddle Characters.dll

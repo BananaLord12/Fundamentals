@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\bin\Debug\net6.0\1. Sign of Interger Numbers.exe
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\bin\Debug\net6.0\1. Sign of Interger Numbers.deps.json
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\bin\Debug\net6.0\1. Sign of Interger Numbers.runtimeconfig.json
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\bin\Debug\net6.0\1. Sign of Interger Numbers.dll
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\bin\Debug\net6.0\1. Sign of Interger Numbers.pdb
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\1. Sign of Interger Numbers.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\1. Sign of Interger Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\1. Sign of Interger Numbers.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\1. Sign of Interger Numbers.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\1. Sign of Interger Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\1. Sign of Interger Numbers.dll
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\refint\1. Sign of Interger Numbers.dll
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\1. Sign of Interger Numbers.pdb
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\1. Sign of Interger Numbers.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Methods Lab\1. Sign of Interger Numbers\obj\Debug\net6.0\ref\1. Sign of Interger Numbers.dll

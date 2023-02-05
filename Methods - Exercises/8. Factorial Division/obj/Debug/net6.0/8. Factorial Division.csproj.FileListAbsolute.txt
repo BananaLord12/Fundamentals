@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.exe
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.deps.json
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.runtimeconfig.json
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.dll
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.pdb
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.dll
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\refint\8. Factorial Division.dll
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.pdb
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Methods - Exercises\8. Factorial Division\obj\Debug\net6.0\ref\8. Factorial Division.dll
