@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\bin\Debug\net6.0\3. House Party.exe
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\bin\Debug\net6.0\3. House Party.deps.json
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\bin\Debug\net6.0\3. House Party.runtimeconfig.json
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\bin\Debug\net6.0\3. House Party.dll
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\bin\Debug\net6.0\3. House Party.pdb
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\3. House Party.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\3. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\3. House Party.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\3. House Party.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\3. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\3. House Party.dll
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\refint\3. House Party.dll
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\3. House Party.pdb
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\3. House Party.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Exercise Lists\3. House Party\obj\Debug\net6.0\ref\3. House Party.dll

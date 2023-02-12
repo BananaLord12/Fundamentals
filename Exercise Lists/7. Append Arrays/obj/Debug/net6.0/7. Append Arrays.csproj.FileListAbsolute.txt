@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\bin\Debug\net6.0\7. Append Arrays.exe
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\bin\Debug\net6.0\7. Append Arrays.deps.json
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\bin\Debug\net6.0\7. Append Arrays.runtimeconfig.json
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\bin\Debug\net6.0\7. Append Arrays.dll
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\bin\Debug\net6.0\7. Append Arrays.pdb
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\7. Append Arrays.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\7. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\7. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\7. Append Arrays.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\7. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\7. Append Arrays.dll
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\refint\7. Append Arrays.dll
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\7. Append Arrays.pdb
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\7. Append Arrays.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Exercise Lists\7. Append Arrays\obj\Debug\net6.0\ref\7. Append Arrays.dll
