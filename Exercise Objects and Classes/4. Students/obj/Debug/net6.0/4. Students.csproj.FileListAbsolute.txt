@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\bin\Debug\net6.0\4. Students.exe
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\bin\Debug\net6.0\4. Students.deps.json
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\bin\Debug\net6.0\4. Students.runtimeconfig.json
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\bin\Debug\net6.0\4. Students.dll
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\bin\Debug\net6.0\4. Students.pdb
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\4. Students.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\4. Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\4. Students.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\4. Students.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\4. Students.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\4. Students.dll
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\refint\4. Students.dll
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\4. Students.pdb
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\4. Students.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\4. Students\obj\Debug\net6.0\ref\4. Students.dll

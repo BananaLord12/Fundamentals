@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\bin\Debug\net6.0\2. Big Factorial.exe
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\bin\Debug\net6.0\2. Big Factorial.deps.json
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\bin\Debug\net6.0\2. Big Factorial.runtimeconfig.json
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\bin\Debug\net6.0\2. Big Factorial.dll
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\bin\Debug\net6.0\2. Big Factorial.pdb
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\2. Big Factorial.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\2. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\2. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\2. Big Factorial.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\2. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\2. Big Factorial.dll
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\refint\2. Big Factorial.dll
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\2. Big Factorial.pdb
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\2. Big Factorial.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Lab Objects and Classes\2. Big Factorial\obj\Debug\net6.0\ref\2. Big Factorial.dll

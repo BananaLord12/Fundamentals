@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\bin\Debug\net6.0\7.  Order by Age.exe
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\bin\Debug\net6.0\7.  Order by Age.deps.json
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\bin\Debug\net6.0\7.  Order by Age.runtimeconfig.json
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\bin\Debug\net6.0\7.  Order by Age.dll
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\bin\Debug\net6.0\7.  Order by Age.pdb
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\7.  Order by Age.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\7.  Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\7.  Order by Age.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\7.  Order by Age.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\7.  Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\7.  Order by Age.dll
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\refint\7.  Order by Age.dll
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\7.  Order by Age.pdb
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\7.  Order by Age.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Exercise Objects and Classes\7.  Order by Age\obj\Debug\net6.0\ref\7.  Order by Age.dll

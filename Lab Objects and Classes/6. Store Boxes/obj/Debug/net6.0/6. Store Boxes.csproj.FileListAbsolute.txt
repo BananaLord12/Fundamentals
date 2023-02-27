@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\bin\Debug\net6.0\6. Store Boxes.exe
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\bin\Debug\net6.0\6. Store Boxes.deps.json
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\bin\Debug\net6.0\6. Store Boxes.runtimeconfig.json
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\bin\Debug\net6.0\6. Store Boxes.dll
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\bin\Debug\net6.0\6. Store Boxes.pdb
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\6. Store Boxes.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\6. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\6. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\6. Store Boxes.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\6. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\6. Store Boxes.dll
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\refint\6. Store Boxes.dll
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\6. Store Boxes.pdb
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\6. Store Boxes.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Lab Objects and Classes\6. Store Boxes\obj\Debug\net6.0\ref\6. Store Boxes.dll
