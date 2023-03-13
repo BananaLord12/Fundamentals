@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\bin\Debug\net6.0\2. Repear Strings.exe
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\bin\Debug\net6.0\2. Repear Strings.deps.json
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\bin\Debug\net6.0\2. Repear Strings.runtimeconfig.json
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\bin\Debug\net6.0\2. Repear Strings.dll
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\bin\Debug\net6.0\2. Repear Strings.pdb
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\2. Repear Strings.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\2. Repear Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\2. Repear Strings.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\2. Repear Strings.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\2. Repear Strings.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\2. Repear Strings.dll
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\refint\2. Repear Strings.dll
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\2. Repear Strings.pdb
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\2. Repear Strings.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Lab Text Processing\2. Repear Strings\obj\Debug\net6.0\ref\2. Repear Strings.dll

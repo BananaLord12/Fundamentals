@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\bin\Debug\net6.0\5. Multiply BIg Number.exe
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\bin\Debug\net6.0\5. Multiply BIg Number.deps.json
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\bin\Debug\net6.0\5. Multiply BIg Number.runtimeconfig.json
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\bin\Debug\net6.0\5. Multiply BIg Number.dll
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\bin\Debug\net6.0\5. Multiply BIg Number.pdb
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\5. Multiply BIg Number.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\5. Multiply BIg Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\5. Multiply BIg Number.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\5. Multiply BIg Number.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\5. Multiply BIg Number.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\5. Multiply BIg Number.dll
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\refint\5. Multiply BIg Number.dll
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\5. Multiply BIg Number.pdb
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\5. Multiply BIg Number.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\5. Multiply BIg Number\obj\Debug\net6.0\ref\5. Multiply BIg Number.dll

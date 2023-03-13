@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\bin\Debug\net6.0\4. Ceaser Cipher.exe
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\bin\Debug\net6.0\4. Ceaser Cipher.deps.json
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\bin\Debug\net6.0\4. Ceaser Cipher.runtimeconfig.json
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\bin\Debug\net6.0\4. Ceaser Cipher.dll
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\bin\Debug\net6.0\4. Ceaser Cipher.pdb
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\4. Ceaser Cipher.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\4. Ceaser Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\4. Ceaser Cipher.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\4. Ceaser Cipher.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\4. Ceaser Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\4. Ceaser Cipher.dll
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\refint\4. Ceaser Cipher.dll
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\4. Ceaser Cipher.pdb
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\4. Ceaser Cipher.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Exercise Strings and Text Processing\4. Ceaser Cipher\obj\Debug\net6.0\ref\4. Ceaser Cipher.dll
