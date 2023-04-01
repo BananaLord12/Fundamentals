@@ -1,0 +1,15 @@
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\bin\Debug\net6.0\5. Courses.exe
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\bin\Debug\net6.0\5. Courses.deps.json
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\bin\Debug\net6.0\5. Courses.runtimeconfig.json
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\bin\Debug\net6.0\5. Courses.dll
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\bin\Debug\net6.0\5. Courses.pdb
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\5. Courses.csproj.AssemblyReference.cache
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\5. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\5. Courses.AssemblyInfoInputs.cache
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\5. Courses.AssemblyInfo.cs
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\5. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\5. Courses.dll
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\refint\5. Courses.dll
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\5. Courses.pdb
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\5. Courses.genruntimeconfig.cache
+C:\Users\Atanas\source\repos\Exercise - Associative Arrays\5. Courses\obj\Debug\net6.0\ref\5. Courses.dll
